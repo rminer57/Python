@@ -1,3 +1,3 @@
-# Python
+## Python
 
-All about python
+A collection of python examples and help files.
