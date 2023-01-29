@@ -8,6 +8,6 @@
 
 *    [PyQt](https://riverbankcomputing.com/software/pyqt/intro)
 
-*    [SciPy](https://github.com/rminer57/Python/edit/main/README.md)
+*    [SciPy](https://scipy.org/)
 
 A collection of python examples and help files.
